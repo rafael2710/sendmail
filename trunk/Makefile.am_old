@@ -1,0 +1,5 @@
+SUBDIRS = lib include bin src
+EXTRA_DIST = RCS
+AM_CPPFLAGS = -I$(top_srcdir)/include \
+	      -I$(top_builddir)/include \
+	      -D_MY_DEBUG_ -Wall -O3
