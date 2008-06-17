@@ -1,0 +1,7 @@
+server:smtp.del.ufrj.br
+to:rafael.alves@del.ufrj.br
+from:viviane.oliveira@del.ufrj.br
+subject:TestMail
+body:oi
+port:25
+attachment:...
